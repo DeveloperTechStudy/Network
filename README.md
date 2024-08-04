@@ -40,5 +40,5 @@
 가나다 순으로 배열하였습니다.
 | 오석현 | 이아라 | 장재근 | 최예나 |
 |-------|--------|-------|---------|
-|![다운로드](https://github.com/user-attachments/assets/755728fa-016c-4ab4-8b05-0866d29ef572)|![다운로드](https://github.com/user-attachments/assets/755728fa-016c-4ab4-8b05-0866d29ef572)|![KakaoTalk_20240805_070459000](https://github.com/user-attachments/assets/191e139e-c34e-4ca0-a9bc-fe586f31bcc3){: width="150" height="150"}|![다운로드](https://github.com/user-attachments/assets/755728fa-016c-4ab4-8b05-0866d29ef572)|
+|<img src="https://github.com/DeveloperTechStudy/Network/blob/main/Images/%EA%B8%B0%EB%B3%B8%ED%94%84%EB%A1%9C%ED%95%84.jpg"  width="180" height="180"/>|<img src="https://github.com/DeveloperTechStudy/Network/blob/main/Images/%EA%B8%B0%EB%B3%B8%ED%94%84%EB%A1%9C%ED%95%84.jpg"  width="180" height="180"/>| <img src="https://github.com/DeveloperTechStudy/Network/blob/main/Images/%EC%9E%A5%EC%9E%AC%EA%B7%BC%ED%94%84%EB%A1%9C%ED%95%84.jpg"  width="180" height="180"/> |<img src="https://github.com/DeveloperTechStudy/Network/blob/main/Images/%EA%B8%B0%EB%B3%B8%ED%94%84%EB%A1%9C%ED%95%84.jpg"  width="180" height="180"/>|
 
