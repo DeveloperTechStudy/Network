@@ -55,8 +55,7 @@
 <br/><br/>
 # 🧑‍🤝‍🧑 스터디 인원
 가나다 순으로 배열하였습니다.
-| 오석현 | 이아라 | [장재근](https://github.com/jaegeunjang) | 최예나(https://github.com/YenaChoi00) |
+| 오석현 | 이아라 | [장재근](https://github.com/jaegeunjang) | [최예나](https://github.com/YenaChoi00) |
 |-------|--------|-------|---------|
-|<img src="https://github.com/DeveloperTechStudy/Network/blob/main/Images/%EA%B8%B0%EB%B3%B8%ED%94%84%EB%A1%9C%ED%95%84.jpg"  width="180" height="180"/>|<img src="https://github.com/DeveloperTechStudy/Network/blob/main/Images/%EA%B8%B0%EB%B3%B8%ED%94%84%EB%A1%9C%ED%95%84.jpg"  width="180" height="180"/>| <img src="https://github.com/DeveloperTechStudy/Network/blob/main/Images/%EC%9E%A5%EC%9E%AC%EA%B7%BC%ED%94%84%EB%A1%9C%ED%95%84.jpg"  width="180" height="180"/> |<img src="![image](https://github.com/user-attachments/assets/013b0363-624e-40c5-97f0-96bee8e7bc5c)
-"  width="180" height="180"/>|
+|<img src="https://github.com/DeveloperTechStudy/Network/blob/main/Images/%EA%B8%B0%EB%B3%B8%ED%94%84%EB%A1%9C%ED%95%84.jpg"  width="180" height="180"/>|<img src="https://github.com/DeveloperTechStudy/Network/blob/main/Images/%EA%B8%B0%EB%B3%B8%ED%94%84%EB%A1%9C%ED%95%84.jpg"  width="180" height="180"/>| <img src="https://github.com/DeveloperTechStudy/Network/blob/main/Images/%EC%9E%A5%EC%9E%AC%EA%B7%BC%ED%94%84%EB%A1%9C%ED%95%84.jpg"  width="180" height="180"/> |<img src="https://github.com/user-attachments/assets/013b0363-624e-40c5-97f0-96bee8e7bc5c"  width="180" height="180"/>|
 
